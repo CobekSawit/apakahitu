@@ -44,7 +44,6 @@ def start(d: Message):
         '/sett_vps - manage droplets\n' \
         ' \n' \
         '======================================\n' \
-        '<b>Dev: @yha_bot</b>\n' \
         '<b>Modded: @cobeksawitofficial</b>\n' \
         '<b>Support: @csvpngrup</b>\n'\
         '======================================\n' 

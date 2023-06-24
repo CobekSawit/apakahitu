@@ -46,7 +46,7 @@ def start(d: Message):
         '======================================\n' \
         '<b>Dev: @yha_bot</b>\n' \
         '<b>Modded: @cobeksawitofficial</b>\n' \
-        '<b>Support: @csvpngrup</b>'\
+        '<b>Support: @csvpngrup</b>\n'\
         '======================================\n' 
     bot.send_message(
         text=t,
